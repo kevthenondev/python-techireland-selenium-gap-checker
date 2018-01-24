@@ -1,5 +1,5 @@
-Techireland crawler
-===================
+Techireland page viewer
+=======================
 The purpose of this program is to make it easier to jump across pages so I can see what each looks like.
 
 WIP
