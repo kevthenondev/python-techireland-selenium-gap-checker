@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Simple crawler to collect company's data.
+Simple crawler to interate through company's data so I see how complete it is (and therefore how useful it is. I intend to make updates where there are gaps and provide this info back to techireland
 
-@author: kdwalsh based on idwaker's linkedin scraper
+@author: kdwalsh based on idwaker's linkedin version
 
 Requirements:
     python-selenium

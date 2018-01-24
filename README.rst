@@ -1,5 +1,6 @@
-Techireland scraper
+Techireland crawler
 ===================
+The purpose of this program is to make it easier to jump across pages so I can see what each looks like.
 
 WIP
 ---
@@ -36,7 +37,7 @@ To run crawler
 
 ::
 
-    $ python crawl.py crawlcompanies dump_results_here.csv dump_crawlcompanies_results_here.csv --browser=firefox
+    $ python crawl.py crawlcompanies dump_results_here.csv --browser=firefox
 
 
 ======
