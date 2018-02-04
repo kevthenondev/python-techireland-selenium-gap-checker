@@ -33,11 +33,11 @@ To run crawler
 
 ::
 
-    $ python crawl.py crawl list_of_names.csv dump_results_here.csv --browser=firefox
+    $ python crawl.py crawlcompanies list_of_names.csv dump_results_here.csv --browser=firefox
 
 ::
 
-    $ python crawl.py crawlcompanies dump_results_here.csv --browser=firefox
+    $ python crawl.py crawl dump_results_here.csv --browser=firefox
 
 
 ======
